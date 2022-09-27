@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Lijun Sun"
+  name             : "Dr. J.C. Liu"
   avatar           : "sun.jpg"
   bio              : |
-    Assistant Professor <br>
-    Civil Engineering <br>
-    McGill University <br>
+    Senior Engineer <br>
+    Construction <br>
+    NAMI <br>
     <br>
-    817 Sherbrooke St. W. <br>
-    Macdonald ENG BLDG 278C <br>
-    Montreal, QC H3A 0C3, Canada <br>
+    # 817 Sherbrooke St. W. <br>
+    # Macdonald ENG BLDG 278C <br>
+    # Montreal, QC H3A 0C3, Canada <br>
   location         : "Montreal, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=Oxt6Ev0AAAAJ&hl=en"
