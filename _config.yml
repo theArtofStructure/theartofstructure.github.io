@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JC Liu / Homepage"
+title                    : "JC Liu - Homepage"
 title_separator          : "-"
 name                     : &name "JC Liu"
 description              : &description "Senior Engineer"
