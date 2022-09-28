@@ -7,19 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "J.C. Liu - Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "J.C. Liu"
-description              : &description "Senior Engineer"
-description              : &description "Constuction | NAMI"
-url                      : theartofstructure.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "theartofstructure/theartofstructure.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -75,25 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  #"UA-26735329-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Dr. J.C. Liu"
-  avatar           : "bio-photo.jpg"
-  bio              : |
-    Senior Engineer <br>
-    Construction <br>
-    NAMI <br>
-    <br>
-#     817 Sherbrooke St. W. <br>
-#     Macdonald ENG BLDG 278C <br>
-#     Montreal, QC H3A 0C3, Canada <br>
-#  location         : "Montreal, Canada"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=Oxt6Ev0AAAAJ&hl=en"
-  email            : "jinchengliu[at]nami.org.hk"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lijunsun"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lijun-sun-8101a716"
-  orcid            : "https://orcid.org/0000-0001-9488-0712"
-  pinterest        : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "lijunsun0"
-  vine             : 
+  twitter          : "replacethistwitterhandle"
+  vine             :
   weibo            :
   xing             :
   youtube          :
@@ -133,22 +129,23 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
+  - vendor
 keep_files:
   - .git
   - .svn
@@ -262,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
