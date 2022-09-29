@@ -32,11 +32,12 @@ author_profile: true
 
 Conference Publications
 ======
-* Sun L, Chen X, He Z, Miranda-Moreno LF (2019) Pattern discovery and anomaly detection of individual travel behavior using license plate recognition data. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
+*  Liu, J. C., & Tan, K. H. Compressive stress-strain relationship of strain-hardening cementitious composite with hybrid fibres after high temperature exposure. Proceedings of the International Conference of Applications of Structural Fire Engineering. Manchester, UK, 2017.
+*  Liu, J. C., & Tan, K. H. Modelling of hygro-thermal behaviour of normal strength concrete at elevated temperatures. 2nd International Fire Safety Symposium. Naples, Italy, 2017.
+*  Liu, J. C., & Tan, K. H. Assessing tensile properties of fire-damaged engineered cementitious composites with hybrid fibres. 9th International Conference on Structures in Fire. Princeton, USA, 2016.
+*  Liu, J. C., & Tan, K. H. Monitoring spalling of heated concrete using laser distance metre. 10th International Conference on Structures in Fire. Belfast, UK, 2018.
+*  Liu, J. C., & Wei, X. An initial attempt to predict fire resistance of RC columns by machine learning methods. Proceedings of the fib Symposium 2020: Concrete Structures for Resilient Society, Shanghai, China, 2020. 
 
-* Zhang M, Zhang S, Sun L, Zhang Y, Du W, Cao X (2019) Characterizing day-to-day airport delay profiles with a network approach. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
-
-* Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (2019) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
 Patent
 ======
