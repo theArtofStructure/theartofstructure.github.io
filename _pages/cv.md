@@ -28,7 +28,7 @@ Skills
 * FEM analysis software
   * Opensees, Abaqus
 * Structural design software
-  * Sap2000, Etabs
+  * Sap2000, Etabs, Autocad
 * Programming language
   * Python, C++
 * Material chracterization technique
