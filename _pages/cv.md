@@ -25,12 +25,14 @@ Work experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sap2000
-  * Sub-skill 2.2
-
-* Skill 3
+* FEM analysis software
+  * Opensees, Abaqus
+* Structural design software
+  * Sap2000, Etabs
+* Programming language
+  * Python, C++
+* Material chracterization technique
+  * SEM, FTIR, X-ray CT, DIL, TGA, etc.
 <br/><br/><br/>
  
 Academic service
