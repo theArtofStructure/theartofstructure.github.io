@@ -33,6 +33,7 @@ Skills
 Academic service
 ======
 Guest Editor
+-----
 * Materials Special Issue "Importance of Machine Intelligence for Construction Material
 and Structural Engineering Applications"
 
