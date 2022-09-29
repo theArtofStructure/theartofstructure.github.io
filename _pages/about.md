@@ -18,12 +18,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Research Contribution
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", Which can be applied in (1) UHPC structural system (2) Significant underground/submerged infrastructure.
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Site-wide configuration
 ------
