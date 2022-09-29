@@ -40,8 +40,8 @@ Guest Editor
 -----
 * Materials Special Issue "Importance of Machine Intelligence for Construction Material and Structural Engineering Applications"
 
-Technical Committee member
------
+##Technical Committee member
+
 * 4th Conference on Sustainability in Civil Engineering
 
 Reviewer
