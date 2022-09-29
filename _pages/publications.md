@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Journal Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,14 +16,11 @@ author_profile: true
 
 You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
 
-Journal Publications
-======
 
-The list is not frequently updated. Please see Google Scholar for recent updates.
 
-* Wang J, Sun L (2020) Dynamic holding control to avoid bus bunching: A multi-agent deep reinforcement learning framework. Transportation Research Part C: Emerging Technologies 116: 102661. (doi:[10.1016/j.trc.2020.102661](https://doi.org/10.1016/j.trc.2020.102661)) <!--[[pdf](../files/papers/2020-TRC-Bus.pdf)]-->
+* Liu, J. C., Tan, K. H.*, & Yao, Y. (2018). A new perspective on nature of fire-induced spalling in concrete. Construction and Building Materials, 184, 581-590. (doi:[10.1016/j.conbuildmat.2018.06.204](https://doi.org/10.1016/j.conbuildmat.2018.06.204))
 
-* Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:[10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025)) <!--[[pdf](../files/papers/2019-JCP-Bike.pdf)]-->
+* Liu L, Sun L, Chen Y, Ma X (2019) Optimizing fleet size and scheduling of feeder transit services considering the influence of bike-sharing systems. Journal of Cleaner Production 236: 117550. (doi:10.1016/j.jclepro.2019.07.025](https://doi.org/10.1016/j.jclepro.2019.07.025)) <!--[[pdf](../files/papers/2019-JCP-Bike.pdf)]-->
 
 * Wang J, Kong X, Xia F, Sun L (2019) Urban human mobility: data-driven modeling and prediction. ACM SIGKDD Explorations 21(1): 1-19. (doi:[10.1145/3331651.3331653](https://doi.org/10.1145/3331651.3331653)) <!--[[pdf](../files/papers/2019-KDD-Explorations.pdf)]-->
 
