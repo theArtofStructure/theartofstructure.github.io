@@ -38,5 +38,11 @@ Conference Publications
 
 * Zhang M, Zhou X, Zhang Y, Sun L, Du W, Cao X (2019) A propagation index on airport delays. Transportation Research Board (TRB) 2019 Annual Meeting (Washington, DC, USA).
 
+Patent
+======
+* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast beam-column connection, CN103243820 A, 2013.8.14.
+* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast column-base connection, CN103243814 A, 2013.8.14.
+* Lu Xilin, Liu JC, and Zhou Ying, Self-centering brace, CN103243834 B, 2015.02.18.
 
-You can also find more about my research on [Google Scholar](https://scholar.google.com/citations?user=qi4IEtkAAAAJ) profile and [ResearchGate](https://www.researchgate.net/profile/Lijun_Sun3?) profile.
+
+You can also find more about my publications on [Google Scholar](https://scholar.google.com/citations?user=Oxt6Ev0AAAAJ&hl=en).
