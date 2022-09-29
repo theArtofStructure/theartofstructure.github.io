@@ -35,8 +35,10 @@ Academic service
 Guest Editor
 * Materials Special Issue "Importance of Machine Intelligence for Construction Material
 and Structural Engineering Applications"
+
 Technical Committee member
 * 4th Conference on Sustainability in Civil Engineering
+
 Reviewer
 * Construction and Building Materials
 * Engineering Structure
@@ -48,3 +50,4 @@ Reviewer
 * Composites Communications
 * Fire Safety Journal
 * Materials
+etc.
