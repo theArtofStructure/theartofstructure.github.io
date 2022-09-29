@@ -33,18 +33,18 @@ Skills
 Academic service
 ======
 Guest Editor
-• Materials Special Issue "Importance of Machine Intelligence for Construction Material
+* Materials Special Issue "Importance of Machine Intelligence for Construction Material
 and Structural Engineering Applications"
 Technical Committee member
-• 4th Conference on Sustainability in Civil Engineering
+* 4th Conference on Sustainability in Civil Engineering
 Reviewer
-• Construction and Building Materials
-• Engineering Structure
-• Steel & Composite Structures
-• International Journal of Structural Stability and Dynamics
-• ASCE Journal of Materials in Civil Engineering
-• Journal of Building Engineering
-• Engineering with Computers
-• Composites Communications
-• Fire Safety Journal
-• Materials
+* Construction and Building Materials
+* Engineering Structure
+* Steel & Composite Structures
+* International Journal of Structural Stability and Dynamics
+* ASCE Journal of Materials in Civil Engineering
+* Journal of Building Engineering
+* Engineering with Computers
+* Composites Communications
+* Fire Safety Journal
+* Materials
