@@ -13,8 +13,8 @@ Education
 ======
 * B.Eng. in Civil Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm), 2010
 * M.Eng. in Structural Engineering, [Tongji University](https://en.tongji.edu.cn/p/#/), 2013
-* Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017<br/>
-
+* Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017
+<br/><br/>
 
 Work experience
 ======
