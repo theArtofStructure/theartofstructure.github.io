@@ -17,12 +17,12 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 Research Contribution
 ======
-1. Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
+* Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
 
-3. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+* Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 
 主要研究贡献
 ======
-1. Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
+* Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
 
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+* Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
