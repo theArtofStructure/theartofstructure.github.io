@@ -15,11 +15,13 @@ Education
 * M.Eng. in Structural Engineering, [Tongji University](https://en.tongji.edu.cn/p/#/), 2013
 * Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017
 
+
 Work experience
 ======
 * 2020.1-2022.7: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
 * 2017.9-2019.11: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/)
-  
+ 
+ 
 Skills
 ======
 * Skill 1
@@ -38,9 +40,11 @@ Guest Editor
 and Structural Engineering Applications"
 
 Technical Committee member
+-----
 * 4th Conference on Sustainability in Civil Engineering
 
 Reviewer
+-----
 * Construction and Building Materials
 * Engineering Structure
 * Steel & Composite Structures
