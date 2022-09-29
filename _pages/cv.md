@@ -13,8 +13,8 @@ Education
 ======
 * B.Eng. in Civil Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm), 2010
 * M.Eng. in Structural Engineering, [Tongji University](https://en.tongji.edu.cn/p/#/), 2013
-* Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017
-<br>
+* Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017<br/>
+
 
 Work experience
 ======
@@ -40,7 +40,8 @@ Guest Editor
 -----
 * Materials Special Issue "Importance of Machine Intelligence for Construction Material and Structural Engineering Applications"
 
-##Technical Committee member
+Technical Committee member
+---
 * 4th Conference on Sustainability in Civil Engineering
 
 Reviewer
