@@ -15,13 +15,13 @@ Education
 * M.Eng. in Structural Engineering, [Tongji University](https://en.tongji.edu.cn/p/#/), 2013
 * Ph.D. in Civil Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), 2017
 <br/>
-<br/>
+
 Work experience
 ======
 * 2020.1-2022.7: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
 * 2017.9-2019.11: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/)
 <br/> 
-<br/> 
+
 Skills
 ======
 * Skill 1
@@ -31,7 +31,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 <br/>
-<br/> 
+ 
 Academic service
 ======
 
