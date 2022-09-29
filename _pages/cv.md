@@ -20,8 +20,8 @@ Work experience
 ======
 * 2022.8-      : Senior Engineer, Nano and Advanced Materials Institute Ltd.
 * 2020.1-2022.7: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
-* 2017.9-2019.11: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/)
-<br/> 
+* 2017.9-2019.11: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/)<br/> 
+
 
 Skills
 ======
@@ -35,6 +35,7 @@ Skills
  
 Academic service
 ======
+
 Guest Editor
 -----
 * Materials Special Issue "Importance of Machine Intelligence for Construction Material
