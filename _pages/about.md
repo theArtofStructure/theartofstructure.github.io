@@ -15,7 +15,7 @@ Welcome to my homepage! I am Jin-Cheng Liu, currently Senior Engineer @ NAMI. I 
 
 Research Contribution
 ======
-* Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduce a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
+* Proposed [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduced a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure.
 
 * Proposed knowledge-enhanced machine learning models to assess explosive spalling risk of concrete, which can be applied in (1) design of explosive spalling-free concrete and (2) assessment of explosive spalling risk of existing concrete.
 
