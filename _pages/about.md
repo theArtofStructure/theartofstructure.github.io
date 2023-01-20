@@ -1,4 +1,6 @@
 ---
+title: ""
+excerpt: ""
 permalink: /
 author_profile: true
 redirect_from: 
@@ -7,18 +9,11 @@ redirect_from:
 ---
 
 ![Editing a markdown file for a talk](/images/logo.png)
+Welcome to my homepage T♥ of structure!
 
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Welcome to my homepage! I am Jin-Cheng Liu, currently Senior Engineer @ NAMI. I have expertise and knowledege in multi-domains, which include structural engineering, construction materials, earthquake engineering, fire safety engineering, artificial intelligence, and visual art (intuition mainly). Looking forward to working and collaborating with you! Together, let us engineer a better world and future!  
+About me
+======
+I am Jin-Cheng Liu, currently Senior Engineer @ NAMI. I have expertise and knowledege in multi-domains, which include structural engineering, construction materials, earthquake engineering, fire safety engineering, artificial intelligence, and visual art (intuition mainly). Looking forward to working and collaborating with you! Together, let us engineer a better world and future!  
 
 
 
