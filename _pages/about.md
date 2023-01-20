@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ![Editing a markdown file for a talk](/images/logo.png)
 Welcome to my homepage T♥ of structure!
 
