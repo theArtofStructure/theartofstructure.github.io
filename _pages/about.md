@@ -33,4 +33,6 @@ Research Contribution
 
 * 提升了延性水泥基复合材料高温残余力学性能，揭示了不同纤维抑制或促进水泥基复合材料高温爆裂的机理，同时研发了无高温爆裂的超高强延性水泥基复合材料，为延性水泥基复合材料抗火性能提升做出了富有成效的先锋性贡献。
 
+![Editing a markdown file for a talk](/images/logo-dyna.gif)
+
 ![Editing a markdown file for a talk](/images/profile.jpg)
