@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Editing a markdown file for a talk](/images/logo.png)
+![Editing a markdown file for a talk](/images/logo2.jpg)
 Welcome to my homepage, T♥ of sTrucTure!
 
 About me
