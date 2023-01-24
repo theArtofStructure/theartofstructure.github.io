@@ -37,3 +37,5 @@ Research Contribution
 ![Editing a markdown file for a talk](/images/logo-dyna2.gif)
 
 ![Editing a markdown file for a talk](/images/profile.jpg)
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=160c98&w=400&t=tt&d=Dpxdrc4AFLYPcA-vwWuwzCFnPW278vQEnjX3wtFIibY&co=ffffff&ct=000000&cmo=3acc3a&cmn=ff5353'></script>
