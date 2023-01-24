@@ -25,6 +25,7 @@ Research Contribution
 
 * Improved fire resistance of normal strength Strain Hardening Cementitious Compsite (SHCC) or Engineered Cementitious Composite (ECC), overcame explosive spalling tendency of Ultrahigh Performance Strain Hardening Cementitious Compsite (UHP-SHCC).
 ![Editing a markdown file for a talk](/images/logo-dynaT.gif)
+
 主要研究贡献
 ======
 * 提出了混凝土高温剥裂统一理论，发展了现代混凝土结构高温防劣化设计理念，为超高性能混凝土结构以及地下与水下重大混凝土基础设施防火设计提供了新思路。
