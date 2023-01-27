@@ -36,4 +36,4 @@ Research Contribution
 
 ![Editing a markdown file for a talk](/images/logo-dyna2.gif)
 
-#![Editing a markdown file for a talk](/images/profile.jpg)
+##### ![Editing a markdown file for a talk](/images/profile.jpg)
