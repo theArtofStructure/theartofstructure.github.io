@@ -36,4 +36,6 @@ Research Contribution
 
 ![Editing a markdown file for a talk](/images/logo-dyna2.gif)
 
-[comment]: # ![Editing a markdown file for a talk](/images/profile.jpg)
+{% comment %}  
+![Editing a markdown file for a talk](/images/profile.jpg)
+{% endcomment %}
