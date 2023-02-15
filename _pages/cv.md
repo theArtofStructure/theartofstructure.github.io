@@ -47,6 +47,13 @@ Technical Committee member
 * 4th Conference on Sustainability in Civil Engineering
 * 5th Conference on Sustainability in Civil Engineering
 
+HONORS & AWARDS
+---
+*	NTU Research Scholarship, Nanyang Technological University, 2013-2017
+*	The 2nd Prize in 9th China National Conference on Earthquake Engineering blind prediction contest, 2014
+*	The 1st prize in the blind prediction contest organized by China National Disaster Prevention Committee, 2011
+
+
 Reviewer
 -----
 * Construction and Building Materials
