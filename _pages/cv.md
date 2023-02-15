@@ -61,7 +61,8 @@ Reviewer
 * Materials<br/>
   etc.
 
-HONORS & AWARDS
+
+Honors & Awards
 ======
 *	NTU Research Scholarship, Nanyang Technological University, 2013-2017
 *	The 2nd Prize in 9th China National Conference on Earthquake Engineering blind prediction contest, 2014
