@@ -17,9 +17,8 @@ Education
 <br/><br/><br/>
 
 Work experience
-======
-* 2022.8-      : Senior Engineer
-* 2020.1-2022.7: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
+====== 
+* 2020.1-: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
 * 2017.9-2019.11: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/) 
 <br/><br/><br/>
 
