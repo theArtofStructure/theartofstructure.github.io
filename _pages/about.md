@@ -12,7 +12,7 @@ Welcome to my homepage, T♥ of sTrucTure!
 
 About me
 ======
-I am Jin-Cheng Liu, currently Senior Engineer. I have expertise and knowledege in multi-domains, which include structural engineering, construction materials, earthquake engineering, fire safety engineering, artificial intelligence, and visual art (intuition mainly). Looking forward to working and collaborating with you! Together, let us engineer a better world and future!  
+I am Jin-Cheng Liu. I have expertise and knowledege in multi-domains, which include structural engineering, construction materials, earthquake engineering, fire safety engineering, artificial intelligence, and visual art (intuition mainly). Looking forward to working and collaborating with you! Together, let us engineer a better world and future!  
 
 
 
