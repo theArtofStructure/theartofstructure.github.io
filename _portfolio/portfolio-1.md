@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/p1.png'>"
+title: "Binder jetting 3D printing"
+excerpt: "Mini Eiffel tower printed by me<br/><img src='/images/p1.png'>"
 collection: portfolio
 ---
 
