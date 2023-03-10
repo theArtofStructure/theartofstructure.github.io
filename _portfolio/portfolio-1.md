@@ -4,5 +4,8 @@ excerpt: "Mini Eiffel tower printed by me<br/><img src='/images/p1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 <img src='/images/p1-large.png'>
+
+Highlights
+*Development of powder mixtures for binder jetting 3D printing
+*Printed mini Eiffel tower using self-developed powder mixture
