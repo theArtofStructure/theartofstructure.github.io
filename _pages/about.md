@@ -21,7 +21,7 @@ Research Contribution
 ======
 * Propounded [Unified fire-induced concrete spalling theory](https://doi.org/10.1016/j.conbuildmat.2018.06.204), and introduced a design concept of "multiple defense line against fire-induced concrete spalling", which can be applied in (1) UHPC structural system and (2) Significant underground/submerged infrastructure. 
 
-* Proposed knowledge-enhanced machine learning models to assess explosive spalling risk of concrete, which can be applied in (1) design of explosive spalling-free concrete, (2) assessment of explosive spalling risk of existing concrete.
+* Proposed [knowledge-enhanced machine learning models](https://doi.org/10.1016/j.conbuildmat.2021.123946) to assess explosive spalling risk of concrete, which can be applied in (1) design of explosive spalling-free concrete, (2) assessment of explosive spalling risk of existing concrete.
 
 * Improved fire resistance of normal strength Strain Hardening Cementitious Compsite (SHCC) or Engineered Cementitious Composite (ECC), overcame explosive spalling tendency of Ultrahigh Performance Strain Hardening Cementitious Compsite (UHP-SHCC).
 ![Editing a markdown file for a talk](/images/logo-dynaT.gif)
