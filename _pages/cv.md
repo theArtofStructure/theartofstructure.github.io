@@ -45,7 +45,8 @@ Technical Committee member
 ---
 * 4th Conference on Sustainability in Civil Engineering
 * 5th Conference on Sustainability in Civil Engineering
-
+* 6th Conference on Sustainability in Civil Engineering
+  
 Reviewer
 -----
 * Construction and Building Materials
