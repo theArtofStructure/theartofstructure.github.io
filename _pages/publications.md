@@ -41,8 +41,8 @@ Conference Publications
 
 Patent
 ======
-* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast beam-column connection, CN103243820 A, 2013.8.14.
-* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast column-base connection, CN103243814 A, 2013.8.14.
+* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast RC beam-column connection, CN103243820 A, 2013.8.14.
+* Lu Xilin, Liu JC, Zhao Bin, and Zhou Ying, Resilient precast RC column-base connection, CN103243814 A, 2013.8.14.
 * Lu Xilin, Liu JC, and Zhou Ying, Self-centering brace, CN103243834 B, 2015.02.18.
 
 
