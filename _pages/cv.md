@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+![Editing a markdown file for a talk](/images/logo3.jpg)
+
 Education
 ======
 * B.Eng. in Civil Engineering, [Southeast University](https://www.seu.edu.cn/english/main.htm), 2010
