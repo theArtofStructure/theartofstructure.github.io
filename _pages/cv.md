@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![Editing a markdown file for a talk](/images/logo3.jpg)
+![Editing a markdown file for a talk](/images/logo3.png)
 
 Education
 ======
