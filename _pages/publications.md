@@ -28,7 +28,7 @@ author_profile: true
 
 * Liu, J. C., & Tan, K. H.* (2018). Fire resistance of ultra-high performance strain hardening cementitious composite: residual mechanical properties and spalling resistance. Cement and Concrete Composites, 89, 62-75. (doi:[10.1016/j.cemconcomp.2018.02.014](https://doi.org/10.1016/j.cemconcomp.2018.02.014))
 
-* Liu, J. C., Ji, H., Kwan, A. K. H., & Ye, H. (2024). Optimization of alkali-activated binder reactive powder concrete based on concept of packing density. Powder Technology, 119778. (doi:[10.1016/j.powtec.2024.119778](https://doi.org/10.1016/j.powtec.2024.119778))
+* Liu, J. C., Ji, H., Kwan, A. K. H., & Ye, H.* (2024). Optimization of alkali-activated binder reactive powder concrete based on concept of packing density. Powder Technology, 119778. (doi:[10.1016/j.powtec.2024.119778](https://doi.org/10.1016/j.powtec.2024.119778))
 
 
 
