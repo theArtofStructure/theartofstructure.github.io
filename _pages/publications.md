@@ -22,6 +22,8 @@ author_profile: true
 
 * Liu, J. C., Huang, L., Tian, Z., & Ye, H.* (2021). Knowledge-enhanced data-driven models for quantifying the effectiveness of PP fibers in spalling prevention of ultra-high performance concrete. Construction and Building Materials, 299, 123946. (doi:[10.1016/j.conbuildmat.2021.123946](https://doi.org/10.1016/j.conbuildmat.2021.123946))
 
+* Ji, H., Lyu, Y., Ying, W., Liu, J. C.*, & Ye, H.* (2024). Machine learning guided iterative mix design of geopolymer concrete. Journal of Building Engineering, 109710. (doi:[10.1016/j.jobe.2024.109710](https://doi.org/10.1016/j.jobe.2024.109710))
+
 * Liu, J. C.*, Tan, K. H., & Zhang, D. (2017). Multi-response optimization of post-fire performance of strain hardening cementitious composite. Cement and Concrete Composites, 80, 80-90. (doi:[10.1016/j.cemconcomp.2017.03.001](https://doi.org/10.1016/j.cemconcomp.2017.03.001)) 
 
 * Liu, J. C., & Tan, K. H.* (2018). Mechanism of PVA fibers in mitigating explosive spalling of engineered cementitious composite at elevated temperature. Cement and Concrete Composites, 93, 235-245. (doi:[10.1016/j.cemconcomp.2018.07.015](https://doi.org/10.1016/j.cemconcomp.2018.07.015))
@@ -29,6 +31,8 @@ author_profile: true
 * Liu, J. C., & Tan, K. H.* (2018). Fire resistance of ultra-high performance strain hardening cementitious composite: residual mechanical properties and spalling resistance. Cement and Concrete Composites, 89, 62-75. (doi:[10.1016/j.cemconcomp.2018.02.014](https://doi.org/10.1016/j.cemconcomp.2018.02.014))
 
 * Liu, J. C., Ji, H., Kwan, A. K. H., & Ye, H.* (2024). Optimization of alkali-activated binder reactive powder concrete based on concept of packing density. Powder Technology, 119778. (doi:[10.1016/j.powtec.2024.119778](https://doi.org/10.1016/j.powtec.2024.119778))
+
+* Liu, J. C., Du, L. P., Yao, Y., Beaucour, A. L., Wang, J. Q., & Zhao, X. Y.* (2024). A close look at fire-induced explosive spalling of ultra-high performance concrete: from materials to structures. Archives of Civil and Mechanical Engineering, 24(2), 124.(doi:[10.1007/s43452-024-00942-5](https://doi.org/10.1007/s43452-024-00942-5))
 
 
 
