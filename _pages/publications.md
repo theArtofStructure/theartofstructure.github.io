@@ -22,7 +22,7 @@ author_profile: true
 
 * Liu, J. C., Huang, L., Tian, Z., & Ye, H.* (2021). Knowledge-enhanced data-driven models for quantifying the effectiveness of PP fibers in spalling prevention of ultra-high performance concrete. Construction and Building Materials, 299, 123946. (doi:[10.1016/j.conbuildmat.2021.123946](https://doi.org/10.1016/j.conbuildmat.2021.123946))
 
-* Ji, H., Lyu, Y., Ying, W., Liu, J. C.**, & Ye, H.* (2024). Machine learning guided iterative mix design of geopolymer concrete. Journal of Building Engineering, 109710. (doi:[10.1016/j.jobe.2024.109710](https://doi.org/10.1016/j.jobe.2024.109710))
+* Ji, H., Lyu, Y., Ying, W., Liu, J. C.**, & Ye, H.\* (2024). Machine learning guided iterative mix design of geopolymer concrete. Journal of Building Engineering, 109710. (doi:[10.1016/j.jobe.2024.109710](https://doi.org/10.1016/j.jobe.2024.109710))
 
 * Liu, J. C.*, Tan, K. H., & Zhang, D. (2017). Multi-response optimization of post-fire performance of strain hardening cementitious composite. Cement and Concrete Composites, 80, 80-90. (doi:[10.1016/j.cemconcomp.2017.03.001](https://doi.org/10.1016/j.cemconcomp.2017.03.001)) 
 
