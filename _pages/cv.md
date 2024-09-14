@@ -38,6 +38,9 @@ Skills
  
 Academic service
 ======
+Editorial Board Member
+-----
+ The Open Construction & Building Technology Journal
 
 Guest Editor
 -----
