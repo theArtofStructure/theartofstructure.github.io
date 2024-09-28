@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "J.C. Liu"
   avatar           : "citations.jpg"
-  bio              : "Research "
+  #bio              : "Research "
   location         : "Earth, not migrated to Mars yet."
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  journal          : "https://openconstructionbuildingtechnologyjournal.com/editorial-board.php"
+  journal          : "https://openconstructionbuildingtechnologyjournal.com/"
 
 
 # Reading Files
