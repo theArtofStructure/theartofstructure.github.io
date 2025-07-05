@@ -36,7 +36,7 @@ Skills
   * SEM, FTIR, X-ray CT, DIL, TGA, etc.
 <br/><br/><br/>
  
-Academic service
+Professional service
 ======
 
 Editorial Board Member
@@ -53,7 +53,11 @@ Technical Committee member
 * 5th Conference on Sustainability in Civil Engineering
 * 6th Conference on Sustainability in Civil Engineering
 * 7th Conference on Sustainability in Civil Engineering
- 
+
+Professional Memberships
+---
+* Member, The Hong Kong Concrete Institute (HKCI)
+
 Reviewer
 -----
 * Construction and Building Materials
