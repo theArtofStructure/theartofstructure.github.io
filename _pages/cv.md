@@ -71,7 +71,9 @@ Reviewer
 * Fire Safety Journal
 * Materials
 * Computers and Concrete
-* Results in Engineering<br/>
+* Results in Engineering
+* The Open Construction & Building Technology Journal
+* Engineering Applications of Artificial Intelligence<br/>
   etc.
 <br/><br/><br/>
 
