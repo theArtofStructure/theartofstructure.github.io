@@ -73,7 +73,10 @@ Reviewer
 * Computers and Concrete
 * Results in Engineering
 * The Open Construction & Building Technology Journal
-* Engineering Applications of Artificial Intelligence<br/>
+* Engineering Applications of Artificial Intelligence
+* Engineered Science
+* Cement and Concrete Composites
+* Engineering Fracture Mechanics<br/>
   etc.
 <br/><br/><br/>
 
