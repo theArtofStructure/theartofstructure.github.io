@@ -76,7 +76,8 @@ Reviewer
 * Engineering Applications of Artificial Intelligence
 * Engineered Science
 * Cement and Concrete Composites
-* Engineering Fracture Mechanics<br/>
+* Engineering Fracture Mechanics
+* Environmental Progress & Sustainable Energy <br/>
   etc.
 <br/><br/><br/>
 
