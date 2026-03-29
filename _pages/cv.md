@@ -53,6 +53,7 @@ Technical Committee member
 * 5th Conference on Sustainability in Civil Engineering
 * 6th Conference on Sustainability in Civil Engineering
 * 7th Conference on Sustainability in Civil Engineering
+* 8th Conference on Sustainability in Civil Engineering
 
 Professional Memberships
 ---
