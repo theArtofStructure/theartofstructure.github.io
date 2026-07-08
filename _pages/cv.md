@@ -20,7 +20,7 @@ Education
 
 Academic experience
 ====== 
-* 2020-2023: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
+* 2020-2022: Research Associate, [The University of Hong Kong](https://www.hku.hk/)
 * 2017-2019: Research Associate/Fellow, [Nanyang Technological University](https://www.ntu.edu.sg/) 
 <br/><br/><br/>
 
