@@ -80,7 +80,8 @@ Reviewer
 * Engineering Fracture Mechanics
 * Environmental Progress & Sustainable Energy
 * Developments in the Built Environment
-* Advances in Engineering Software <br/>
+* Advances in Engineering Software
+* Resources, Conservation & Recycling Advances<br/>
   etc.
 <br/><br/><br/>
 
