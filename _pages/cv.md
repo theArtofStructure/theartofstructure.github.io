@@ -81,7 +81,8 @@ Reviewer
 * Environmental Progress & Sustainable Energy
 * Developments in the Built Environment
 * Advances in Engineering Software
-* Resources, Conservation & Recycling Advances<br/>
+* Resources, Conservation & Recycling Advances
+* Hybrid Advances<br/>
   etc.
 <br/><br/><br/>
 
